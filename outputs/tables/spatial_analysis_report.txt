@@ -1,0 +1,64 @@
+====================================
+SPATIAL ANALYSIS REPORT
+====================================
+
+Analysis Date: 2025-11-03 
+Analyst: Syed Inzimam Ali Shah
+
+DATASET OVERVIEW
+----------------
+Total species records: 5902 
+Unique species: 846 
+Grid resolution: 0.5° (~50km)
+Total grid cells: 404 
+Cells with data: 117 
+Spatial coverage: 29 %
+
+SPECIES RICHNESS STATISTICS
+---------------------------
+Mean species per cell: 7.05 
+Median species per cell: 0 
+Maximum species in a cell: 264 
+Standard deviation: 24.07 
+
+BIODIVERSITY HOTSPOTS
+---------------------
+Hotspot definition: Top 10% richest cells
+Richness threshold: 63 species
+Number of hotspot cells: 12 
+Percentage of total area: 3 %
+
+Top 5 Richest Cells:
+  cell_id species_richness total_records n_families
+1     652              264          1371        104
+2      79              218           750         92
+3     589              117           246         45
+4     685              116           296         61
+5      80              114           139         44
+
+
+SAMPLING EFFORT
+---------------
+  sampling_effort   n
+1       Unsampled 287
+2             Low  61
+3          Medium  33
+4            High  18
+5       Very High   5
+
+
+KEY FINDINGS
+------------
+1. Species richness is not evenly distributed across Pakistan
+2. Biodiversity hotspots identified in 12 grid cells
+3. Sampling coverage: 29 % of the country
+4. Data gaps exist in 287 grid cells
+5. High-effort areas show greater species diversity
+
+RECOMMENDATIONS
+---------------
+1. Focus conservation efforts on identified hotspot areas
+2. Increase sampling in underrepresented regions
+3. Conduct targeted surveys in data-gap areas
+4. Monitor biodiversity trends in hotspot cells over time
+5. Integrate with habitat and threat data for conservation planning

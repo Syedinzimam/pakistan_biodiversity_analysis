@@ -1,0 +1,51 @@
+====================================
+PAKISTAN BIODIVERSITY DATA EXPLORATION
+====================================
+
+Date: 2025-11-03 
+
+BASIC STATISTICS
+----------------
+Total records: 10000 
+Unique species: 859 
+Date range: 2024 to 2025 
+
+TAXONOMIC SUMMARY
+-----------------
+   kingdom    n
+1 Animalia 9302
+2  Plantae  667
+3     <NA>   28
+4    Fungi    1
+5 Protozoa    1
+6  Viruses    1
+
+Top Classes:
+           class    n
+1           Aves 8249
+2        Insecta  800
+3  Magnoliopsida  549
+4     Liliopsida  114
+5       Mammalia   99
+6       Squamata   68
+7           <NA>   45
+8       Amphibia   33
+9      Arachnida   26
+10    Testudines    6
+
+
+DATA QUALITY ISSUES
+-------------------
+Records without species name: 207 
+Records without coordinates: 0 
+Potential duplicates: 5458 
+Records outside Pakistan boundaries: 0 + 0 
+
+
+RECOMMENDATIONS FOR CLEANING
+----------------------------
+1. Remove records without species names
+2. Remove records without valid coordinates
+3. Remove duplicate observations
+4. Filter records outside Pakistan boundaries
+5. Keep only records with complete taxonomic information

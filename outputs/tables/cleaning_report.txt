@@ -1,0 +1,54 @@
+====================================
+DATA CLEANING REPORT
+====================================
+
+Date: 2025-11-03 
+
+CLEANING STEPS
+--------------
+                 Step Records_Removed Records_Remaining
+1      No coordinates               0             10000
+2     No species name             207              9793
+3 Invalid coordinates               0              9793
+4          Duplicates            3756              6037
+
+
+FINAL DATASET STATISTICS
+------------------------
+Clean records: 5902 
+Unique species: 846 
+Date range: 2024 to 2025 
+
+
+TAXONOMIC COMPOSITION
+---------------------
+          class    n
+1          Aves 4388
+2       Insecta  692
+3 Magnoliopsida  514
+4      Mammalia   87
+5    Liliopsida   82
+
+
+MOST RECORDED SPECIES
+--------------------
+                   species   n
+1     Acridotheres tristis 167
+2         Corvus splendens 165
+3        Danaus chrysippus 132
+4           Milvus migrans 122
+5         Pycnonotus cafer 115
+6        Passer domesticus 114
+7         Papilio demoleus  88
+8  Spilopelia senegalensis  81
+9            Columba livia  74
+10           Lanius schach  70
+
+
+DATA QUALITY ASSESSMENT
+-----------------------
+✓ All records have valid coordinates
+✓ All records have species identification
+✓ All duplicates removed
+✓ All records within Pakistan boundaries
+✓ Dataset ready for spatial analysis
