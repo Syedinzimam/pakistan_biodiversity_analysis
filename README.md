@@ -25,7 +25,7 @@ This project analyzes spatial patterns of biodiversity across Pakistan using spe
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 ### **Biodiversity Metrics**
 - **Total Clean Records:** 5,902 high-quality species observations
@@ -124,7 +124,7 @@ This project analyzes spatial patterns of biodiversity across Pakistan using spe
 
 ---
 
-## 🚀 How to Reproduce This Analysis
+##  How to Reproduce This Analysis
 
 ### **Prerequisites**
 - R (version 4.0 or higher)
