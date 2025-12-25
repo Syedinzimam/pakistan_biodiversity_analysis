@@ -9,7 +9,7 @@ library(dplyr)
 library(sf)
 library(ggplot2)
 
-setwd("C:/pakistan-biodiversity-analysis")
+setwd("C:/pakistan_biodiversity_analysis")
 
 cat("=== DAY 5: DATA CLEANING ===\n\n")
 
