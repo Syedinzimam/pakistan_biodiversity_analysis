@@ -2,7 +2,7 @@
 # Pakistan Biodiversity Analysis
 # Script 04: Final Visualizations
 # Author: Syed Inzimam Ali Shah
-# Date: 2025
+# Date: Sep-Oct 2025
 # ========================================
 
 library(dplyr)
@@ -11,7 +11,7 @@ library(sf)
 library(viridis)
 library(tidyr)
 
-setwd("C:/pakistan-biodiversity-analysis")
+setwd("C:/pakistan_biodiversity_analysis")
 
 cat("=== DAY 11: FINAL VISUALIZATIONS ===\n\n")
 
@@ -392,17 +392,4 @@ sink()
 
 cat("✓ Summary saved\n")
 
-# ========================================
-# FINAL SUMMARY
-# ========================================
-
-cat("\n=== DAY 11 COMPLETE ===\n\n")
-cat("✓ Created 10 professional visualizations!\n")
-cat("✓ All charts are publication-quality (300 dpi)\n")
-cat("✓ Ready for presentations and applications\n\n")
-
-cat("Check your outputs:\n")
-cat("  • outputs/figures/ - All charts and infographics\n")
-cat("  • outputs/tables/visualization_summary.txt\n\n")
-
-cat("Next: Day 15 - Write comprehensive README!\n")
+# =================================== #
